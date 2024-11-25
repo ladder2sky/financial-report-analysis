@@ -1,4 +1,4 @@
-token_str = '5f86dc8ea98532d7608e4da19732640e1fce4306733e7317d002f0ae'
+token_str = ''
 fmt = '%Y%m%d'
 
 
